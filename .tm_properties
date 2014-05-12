@@ -1,0 +1,8 @@
+TM_PYTHON = "/Users/fish/Praxa/djatacore/bin/python"
+TM_PYTHONPATH = ".:/Users/fish/Praxa/djatacore/lib/python2.7/site-packages:/Users/fish/Praxa/djatacore/local/lib/python2.7/site-packages:/Users/fish/Praxa/djatacore/instance/djatacore:/Users/fish/Praxa/djatacore/instance:/Users/fish/Praxa/djatacore/lib/python2.7/site-packages:/Users/fish/Praxa/djatacore"
+PYTHONPATH = ".:/Users/fish/Praxa/djatacore/lib/python2.7/site-packages:/Users/fish/Praxa/djatacore/local/lib/python2.7/site-packages:/Users/fish/Praxa/djatacore/instance/djatacore:/Users/fish/Praxa/djatacore/instance:/Users/fish/Praxa/djatacore/lib/python2.7/site-packages:/Users/fish/Praxa/djatacore"
+DJANGO_SETTINGS_MODULE = "settings"
+
+[*.*]
+windowTitle = "djatacore • $TM_DISPLAYNAME"
+
